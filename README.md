@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Asynchronous material module 1 work
+# An analysis of kickstarter campaigns
+Asynchronous material module 1 work, Louise analysis of kickstarter campaigns for her play.
