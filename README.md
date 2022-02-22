@@ -27,4 +27,4 @@ The play campaigns with a high percentage of failure were over $25,000.
 Wouldn’t it have been nice to know what the MIN and MAX contribution of each subcategory was? How about whether there was other advertising or insentive utilized to promote the campaigns?
 
 #### What are some other possible tables and/or graphs that we could create?
-- I would like my graphs to show a story. What kind of story could be told if we used deadlines? We have explored the length of a campaign as having the effect on outcomes. Looking at the deadlines to see if they might be an outcome factor might prove to be of some worth.
+I would like my graphs to show a story. What kind of story could be told if we used deadlines? We have explored the length of a campaign as having the effect on outcomes. Looking at the deadlines to see if they might be an outcome factor might prove to be of some worth.
